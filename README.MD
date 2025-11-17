@@ -173,4 +173,3 @@ El proyecto demuestra el uso completo de HTTP, HTTPS y mTLS entre dos APIs reale
 La implementación cubre todos los requerimientos solicitados, utilizando certificados generados manualmente y procesos independientes para cliente y servidor.
 
 La estructura del proyecto permite observar de manera clara cómo funciona tanto el cifrado TLS tradicional como el mecanismo de autenticación mutua mediante certificados digitales.
-```
