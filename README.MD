@@ -1,4 +1,3 @@
-```markdown
 # Proyecto: Implementación de mTLS entre dos APIs en Node.js  
 ### Integrantes  
 - Juan Pablo Restrepo  
